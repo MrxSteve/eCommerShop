@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "eCommerceShop", "eCommerceShop\eCommerceShop.ssmssqlproj", "{46292730-A6EF-406A-A9FB-34D7EA93EAF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46292730-A6EF-406A-A9FB-34D7EA93EAF6}.Default|Default.ActiveCfg = Default
+		{27943B19-0F52-454A-B9AB-2276D6CE433C}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7A6D51A-375D-4CE2-BA71-FA080EE9D67D}
+	EndGlobalSection
+EndGlobal
